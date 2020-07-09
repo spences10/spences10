@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋</h2>
+# Hello World 👋
 
 I make web experiences for my employers clients!
 
