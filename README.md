@@ -10,11 +10,11 @@ I [stream] and [speak]
 
 ![GitHub Stats Card]
 
-<small>h/t <a href="https://github.com/catalinpit/">Catalin Pit</a> for the GitHub stats link.</small>
+###### h/t <a href="https://github.com/catalinpit/">Catalin Pit</a> for the GitHub stats link.
 
 <!-- Links -->
 
 [digital garden]: https://scottspence.com/garden
 [stream]: https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg
 [speak]: https://scottspence.com/speaking
-[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=spences10&show_icons=true
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=spences10
