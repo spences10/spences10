@@ -6,9 +6,9 @@ I write in my [Digital Garden]
 
 I [stream] and [speak]
 
-## My GitHub Stats
+<!-- ## My GitHub Stats -->
 
-![GitHub Stats Card]
+<!-- ![GitHub Stats Card] -->
 
 <!-- Links -->
 
