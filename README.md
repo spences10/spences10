@@ -6,6 +6,9 @@ I write in my [Digital Garden]
 
 I [stream] and [speak]
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing.spences10.vercel.app/api/spotify-playing" alt="Scott, Spotify Playing" width="350" />](https://open.spotify.com/user/spences10)
+
 <!-- ## My GitHub Stats -->
 
 <!-- ![GitHub Stats Card] -->
