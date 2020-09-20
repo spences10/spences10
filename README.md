@@ -10,9 +10,9 @@ I [stream] and [speak]
 
 [<img src="https://spotify-now-playing.spences10.vercel.app/api/spotify-playing" alt="Scott, Spotify Playing" width="350" />](https://open.spotify.com/user/spences10)
 
-<!-- ## My GitHub Stats -->
+## My GitHub Stats
 
-<!-- ![GitHub Stats Card] -->
+![GitHub Stats Card]
 
 <!-- Links -->
 
