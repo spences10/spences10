@@ -14,9 +14,16 @@ I [stream] and [speak]
 
 ![GitHub Stats Card]
 
+## My GitHub Trophies
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+![GitHub Trophies]
+
 <!-- Links -->
 
 [digital garden]: https://scottspence.com/garden
 [stream]: https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg
 [speak]: https://scottspence.com/speaking
 [github stats card]: https://github-readme-stats.vercel.app/api?username=spences10
+[github trophies]: https://github-profile-trophy.vercel.app/?username=spences10&column=4&margin-w=18&margin-h=15
