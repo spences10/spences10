@@ -8,6 +8,8 @@ I [stream] and [speak]
 
 ### Now Playing - Spotify 🎧
 
+<!-- Make your own https://www.youtube.com/watch?v=n6d4KHSKqGk&t=555s -->
+
 [<img src="https://spotify-now-playing.spences10.vercel.app/api/spotify-playing" alt="Scott, Spotify Playing" width="350" />](https://open.spotify.com/user/spences10)
 
 ## My GitHub Stats
