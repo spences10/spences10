@@ -6,6 +6,8 @@ I write in my [Digital Garden]
 
 I [stream] and [speak]
 
+I love working with Gatsby and MDX.
+
 <details>
   <summary>GitHub Stats</summary>
 
