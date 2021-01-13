@@ -2,7 +2,7 @@
 
 I make web experiences for my employers clients!
 
-I write in my [Digital Garden]
+I write in my [Thoughts Pamphlet]
 
 I [stream] and [speak]
 
@@ -39,7 +39,7 @@ I love working with Gatsby and MDX.
 
 <!-- Links -->
 
-[digital garden]: https://scottspence.com/garden
+[Thoughts Pamphlet]: https://scottspence.com/garden
 [stream]: https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg
 [speak]: https://scottspence.com/speaking
 [github stats card]: https://github-readme-stats.vercel.app/api?username=spences10
