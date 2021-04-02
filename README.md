@@ -31,7 +31,12 @@ I love working with Gatsby and MDX.
 
 </details>
 
+<details>
+  <summary>Source Karma badge</summary>
+
 [![Source Karma badge for @spences10](https://sourcekarma-og.vercel.app/api/spences10/github)](https://sourcekarma.vercel.app/spences10)
+
+</details>
 
 ### Now Playing - Spotify 🎧
 
