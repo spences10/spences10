@@ -6,7 +6,7 @@ I write in my [Thoughts Pamphlet]
 
 I [stream] and [speak]
 
-I love working with Gatsby and MDX.
+I like working with MDX.
 
 <details>
   <summary>GitHub Stats</summary>
