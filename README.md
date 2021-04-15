@@ -26,8 +26,8 @@ I like working with MDX.
 
 <details>
   <summary>GitHub Language Split</summary>
-
-![github language split]
+  
+  <img src="https://ghui.vercel.app/pie.png?username=spences10" loading="eager" />
 
 </details>
 
@@ -51,4 +51,3 @@ I like working with MDX.
 [speak]: https://scottspence.com/speaking
 [github stats card]: https://github-readme-stats.vercel.app/api?username=spences10
 [github trophies]: https://github-profile-trophy.vercel.app/?username=spences10&column=4&margin-w=18&margin-h=15
-[github language split]: https://ghui.vercel.app/pie.png?username=spences10
