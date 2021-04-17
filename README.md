@@ -29,7 +29,7 @@ I like working with MDX.
   <a
     href="https://ghui.vercel.app/pie.png?username=spences10&interactive=true"
     target="_blank"
-    rel="noopener"
+    rel="noopener noreferrer"
     height="630"
   >
     <img src="https://ghui.vercel.app/pie.png?username=spences10" loading="eager" />
@@ -42,7 +42,7 @@ I like working with MDX.
   <a
     href="https://ghui.vercel.app/heat.png?username=spences10&year=2021&interactive=true"
     target="_blank"
-    rel="noopener"
+    rel="noopener noreferrer"
     height="260"
   >
     <img src="https://ghui.vercel.app/heat.png?username=spences10&year=2021" loading="eager" />
