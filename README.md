@@ -26,8 +26,27 @@ I like working with MDX.
 
 <details>
   <summary>GitHub Language Split</summary>
-  
-  <img src="https://ghui.vercel.app/pie.png?username=spences10" loading="eager" />
+  <a
+    href="https://ghui.vercel.app/pie.png?username=spences10&interactive=true"
+    target="_blank"
+    rel="noopener"
+    height="630"
+  >
+    <img src="https://ghui.vercel.app/pie.png?username=spences10" loading="eager" />
+  </a>
+
+</details>
+
+<details>
+  <summary>GitHub Contributions</summary>
+  <a
+    href="https://ghui.vercel.app/heat.png?username=spences10&year=2021&interactive=true"
+    target="_blank"
+    rel="noopener"
+    height="260"
+  >
+    <img src="https://ghui.vercel.app/heat.png?username=spences10&year=2021" loading="eager" />
+  </a>
 
 </details>
 
@@ -46,7 +65,7 @@ I like working with MDX.
 
 <!-- Links -->
 
-[Thoughts Pamphlet]: https://scottspence.com/garden
+[thoughts pamphlet]: https://scottspence.com/garden
 [stream]: https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg
 [speak]: https://scottspence.com/speaking
 [github stats card]: https://github-readme-stats.vercel.app/api?username=spences10
