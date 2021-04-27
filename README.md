@@ -1,6 +1,6 @@
 # Hello World <img src="https://res.cloudinary.com/defkmsrpw/image/upload/q_auto,f_auto,w_60/v1614959623/wave.gif" width="35px">
 
-I make web experiences for my employers clients!
+Hi I'm Scott
 
 I write in my [Thoughts Pamphlet]
 
