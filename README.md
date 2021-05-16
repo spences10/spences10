@@ -1,4 +1,4 @@
-# Hello World <img src="https://res.cloudinary.com/defkmsrpw/image/upload/q_auto,f_auto,w_60/v1614959623/wave.gif" width="35px">
+# Hello World
 
 Hi I'm Scott
 
