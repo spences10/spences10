@@ -2,9 +2,9 @@
 
 Hi I'm Scott
 
-I write in my [Thoughts Pamphlet]
+I write in my [blog]
 
-I [stream] and [speak]
+I [stream] and [speak].
 
 I like working with MDX.
 
@@ -59,7 +59,7 @@ I like working with MDX.
 
 <!-- Links -->
 
-[thoughts pamphlet]: https://scottspence.com/garden
+[blog]: https://scottspence.com/garden
 [stream]: https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg
 [speak]: https://scottspence.com/speaking
 [github stats card]: https://github-readme-stats.vercel.app/api?username=spences10
