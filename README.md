@@ -6,7 +6,7 @@ I write in my [blog]
 
 I [stream] and [speak].
 
-I like working with MDX.
+I like working with MDX and Svelte.
 
 <details>
   <summary>GitHub Stats</summary>
