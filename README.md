@@ -35,6 +35,8 @@ I like working with MDX and Svelte.
     <img src="https://ghui.vercel.app/pie.png?username=spences10" loading="eager" />
   </a>
 
+  Repo: https://github.com/spences10/github-top-languages
+  
 </details>
 
 <details>
