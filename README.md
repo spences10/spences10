@@ -48,6 +48,8 @@ I like working with MDX and Svelte.
     <img src="https://ghui.vercel.app/heat.png?username=spences10&year=2021" loading="eager" />
   </a>
 
+  Repo: https://github.com/spences10/github-user-information
+
 </details>
 
 <details>
