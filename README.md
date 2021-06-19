@@ -4,8 +4,6 @@ Hi I'm Scott
 
 I write in my [blog]
 
-I [stream] and [speak].
-
 I like working with MDX and Svelte.
 
 <details>
