@@ -8,6 +8,8 @@ I make [videos] and I [talk] at places that want me to talk about the jamstack
 
 I like working with MDX and Svelte.
 
+<!-- 
+
 <details>
   <summary>GitHub Stats</summary>
 
@@ -18,7 +20,11 @@ I like working with MDX and Svelte.
 <details>
   <summary>GitHub Trophies</summary>
 
+ -->
+
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+<!-- 
 
 ![GitHub Trophies]
 
@@ -60,6 +66,8 @@ I like working with MDX and Svelte.
 [![Source Karma badge for @spences10](https://sourcekarma-og.vercel.app/api/spences10/github)](https://sourcekarma.vercel.app/spences10)
 
 </details>
+
+ -->
 
 <!-- Links -->
 
