@@ -1,10 +1,10 @@
 # Hello World
 
-Hi I'm Scott
+Hi I'm Scott!
 
-I write in my [blog]
+I write in my [blog].
 
-I make [videos] and I [talk] at places that want me to talk about the jamstack 
+I make [videos] and I [talk] at places that want me to talk about the jamstack.
 
 I like working with MDX and Svelte.
 
