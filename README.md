@@ -8,6 +8,9 @@ I make [videos] and I [talk] at places that want me to talk about the jamstack.
 
 I like working with MDX and Svelte.
 
+[![Twitter](https://img.shields.io/badge/spences10%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/spences10) 
+[![YouTube](https://img.shields.io/badge/scottspenceplease%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/scottspenceplease) 
+
 <details>
   <summary>GitHub Stats</summary>
 
