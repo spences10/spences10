@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Wakatime Readme
 
 on:
   workflow_dispatch:
@@ -8,18 +8,11 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with Wakatime metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Updated Wakatime Stats
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ 
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TITLE: true 
