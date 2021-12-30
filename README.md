@@ -12,6 +12,9 @@ I like working with SvelteKit.
 [![Twitter](https://img.shields.io/badge/spences10%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/spences10) 
 [![YouTube](https://img.shields.io/badge/scottspenceplease%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/scottspenceplease) 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- thank's to @PuruVJ for the tip on this card! -->
 
 ![Scott Spence's Github Stats](https://metrics.lecoq.io/spences10)
