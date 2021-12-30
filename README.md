@@ -13,6 +13,13 @@ I like working with SvelteKit.
 [![YouTube](https://img.shields.io/badge/scottspenceplease%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/scottspenceplease) 
 
 <!--START_SECTION:waka-->
+```text
+Svelte       4 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Markdown     4 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 % 
+JavaScript   3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 % 
+JSON         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+YAML         1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- thank's to @PuruVJ for the tip on this card! -->
