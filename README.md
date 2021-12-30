@@ -12,6 +12,8 @@ I like working with SvelteKit.
 [![Twitter](https://img.shields.io/badge/spences10%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/spences10) 
 [![YouTube](https://img.shields.io/badge/scottspenceplease%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/scottspenceplease) 
 
+[![Wakatime Readme](https://github.com/spences10/spences10/actions/workflows/main.yml/badge.svg)](https://github.com/spences10/spences10/actions/workflows/main.yml)
+
 <!--START_SECTION:waka-->
 ```text
 Svelte       4 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.41 % 
