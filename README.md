@@ -16,7 +16,7 @@ I like working with SvelteKit.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
 Svelte       15 hrs 3 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀   64.69 % 
 Markdown     3 hrs 41 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.82 % 
