@@ -29,10 +29,6 @@ YAML         48 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<!-- thank's to @PuruVJ for the tip on this card! -->
-
-![Scott Spence's Github Stats](https://metrics.lecoq.io/spences10)
-
 <details>
   <summary>GitHub Stats</summary>
 
