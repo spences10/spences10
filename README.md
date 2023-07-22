@@ -2,7 +2,9 @@
 
 Hi I'm Scott!
 
-Svelte Socierty London meetup organiser. [Join the Guild for] updates on the next event.
+Svelte Socierty London events organiser. [Join the Guild for] updates on the next event.
+
+Svelte ambassador.
 
 I write in my [blog].
 
