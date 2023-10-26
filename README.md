@@ -12,8 +12,6 @@ I make [videos] and I [talk] at places that want me to talk about SvelteKit.
 
 I like working with SvelteKit, like, a _lot_.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=spences10&theme=nightowl&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 [![wakatime](https://wakatime.com/badge/user/df1e2e6c-83b8-4fc3-8bdd-c2f5bf774ac8.svg)](https://wakatime.com/@df1e2e6c-83b8-4fc3-8bdd-c2f5bf774ac8)
 [![Twitter](https://img.shields.io/badge/spences10%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/spences10) 
 [![YouTube](https://img.shields.io/badge/scottspenceplease%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/scottspenceplease) 
