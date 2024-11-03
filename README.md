@@ -13,7 +13,7 @@ I make [videos] and I [talk] at places that want me to talk about SvelteKit.
 I like working with SvelteKit, like, a _lot_.
 
 [![wakatime](https://wakatime.com/badge/user/df1e2e6c-83b8-4fc3-8bdd-c2f5bf774ac8.svg)](https://wakatime.com/@df1e2e6c-83b8-4fc3-8bdd-c2f5bf774ac8)
-[![Twitter](https://img.shields.io/badge/spences10%20-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white)](https://x.com/spences10) 
+[![bsky: bsky](https://img.shields.io/badge/-scottspence.dev-blue?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/scottspence.dev)
 [![YouTube](https://img.shields.io/badge/scottspenceplease%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/scottspenceplease) 
 ![profile visits](https://komarev.com/ghpvc/?username=spences10)
 
