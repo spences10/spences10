@@ -18,6 +18,7 @@ I like working with SvelteKit, like, a _lot_.
 ![profile visits](https://komarev.com/ghpvc/?username=spences10)
 
 [![Wakatime Readme](https://github.com/spences10/spences10/actions/workflows/main.yml/badge.svg)](https://github.com/spences10/spences10/actions/workflows/main.yml)
+[![committers.top badge](https://user-badge.committers.top/uk/spences10.svg)](https://user-badge.committers.top/uk/spences10)
 
 <!--START_SECTION:waka-->
 
