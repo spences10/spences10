@@ -1,16 +1,12 @@
 # Hello World
 
-Hi I'm Scott!
+Hi, I'm Scott — a UK-based product engineer and Svelte consultant.
 
-Svelte Socierty London events organiser. [Join the Guild for] updates on the next event.
+I build production AI systems, coding-agent infrastructure, MCP tools, SvelteKit products, and open-source developer tooling.
 
-Svelte ambassador.
+I'm a Svelte Ambassador and co-organiser of Svelte Society London. [Join the Guild] for updates on our next event.
 
-I write in my [blog].
-
-I make [videos] and I [talk] at places that want me to talk about SvelteKit.
-
-I like working with SvelteKit, like, a _lot_.
+I publish practical engineering guides on my [blog], make [videos], and [speak] about AI engineering, coding agents, Svelte, and SvelteKit.
 
 [![wakatime](https://wakatime.com/badge/user/df1e2e6c-83b8-4fc3-8bdd-c2f5bf774ac8.svg)](https://wakatime.com/@df1e2e6c-83b8-4fc3-8bdd-c2f5bf774ac8)
 [![bsky: bsky](https://img.shields.io/badge/-scottspence.dev-blue?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/scottspence.dev)
@@ -36,7 +32,7 @@ YAML           2 hrs 27 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- Links -->
 
-[blog]: https://scottspence.com/garden
+[blog]: https://scottspence.com/posts
 [videos]: https://www.youtube.com/channel/UC3ob2PbcsXT3IIMX--wLEfg
-[talk]: https://scottspence.com/speaking
-[Join the Guild for]: https://beta.guild.host/svelte-society-london
+[speak]: https://scottspence.com/speaking
+[Join the Guild]: https://beta.guild.host/svelte-society-london
