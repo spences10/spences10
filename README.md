@@ -16,6 +16,8 @@ I publish practical engineering guides on my [blog], make [videos], and [speak] 
 [![Wakatime Readme](https://github.com/spences10/spences10/actions/workflows/main.yml/badge.svg)](https://github.com/spences10/spences10/actions/workflows/main.yml)
 [![committers.top badge](https://user-badge.committers.top/uk/spences10.svg)](https://user-badge.committers.top/uk/spences10)
 
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=spences10&hide_border=true)
+
 <!--START_SECTION:waka-->
 
 ```txt
